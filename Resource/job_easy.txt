@@ -1,0 +1,12 @@
+king
+shop
+boss
+earn
+tour
+farm
+work
+cook
+desk
+job
+chef
+vet
